@@ -1,4 +1,8 @@
-# Descripción del juego
+
+#Diego Barrales Castillo (dbc00009) - Práctica 2 Desarrollo Ágil
+
+
+##Título: Tarta de zanahoria
 
 Tu madre te manda ir al supermercado porque necesita ingredientes para hacer una tarta de
 zanahoria para el cumpleaños de tu hermano, que es al día siguiente.
@@ -14,9 +18,9 @@ Si no tomas las decisiones correctas puede que alguien te odie para siempre.
 Aquí queda reflejado que tanto el repositorio del proyecto como el tablero en Trello están correctamente enlazados a Telegram.
 
 ![alt text](./games/imagenes/capturas/TELEGRAM/1.png "Tablero enlazado")
+Dos días después de enlazar Trello fui consciente de que había olvidado enlazar el repositorio de GitHub.
 
 ![alt text](./games/imagenes/capturas/TELEGRAM/2.png "Repositorio enlazado")
-Dos días después de enlazar Trello fui consciente de que había olvidado enlazar el repositorio de GitHub.
 
 ![alt text](./games/imagenes/capturas/TELEGRAM/3.png "Prueba de que todo funciona")
 
@@ -37,3 +41,5 @@ Dos días después de enlazar Trello fui consciente de que había olvidado enlaz
 
 ![alt text](./games/imagenes/capturas/TRELLO/4.png "Tablero al finalizar")
 Aquí el único paso que falta es esta misma captura, por lo tanto están acabadas todas las tareas.
+
+PD: no me he asignado las tareas a mí mismo porque al ser el único miembro del proyecto no lo he visto necesario.
