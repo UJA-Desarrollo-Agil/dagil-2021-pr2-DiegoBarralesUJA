@@ -13,27 +13,27 @@ Si no tomas las decisiones correctas puede que alguien te odie para siempre.
 
 Aquí queda reflejado que tanto el repositorio del proyecto como el tablero en Trello están correctamente enlazados a Telegram.
 
-![alt text](games\imagenes\capturas\TELEGRAM\1.png "Tablero enlazado")
+![alt text](./games/imagenes/capturas/TELEGRAM/1.png "Tablero enlazado")
 
-![alt text](games\imagenes\capturas\TELEGRAM\2.png "Repositorio enlazado")
+![alt text](./games/imagenes/capturas/TELEGRAM/2.png "Repositorio enlazado")
 Dos días después de enlazar Trello fui consciente de que había olvidado enlazar el repositorio de GitHub.
 
-![alt text](games\imagenes\capturas\TELEGRAM\3.png "Prueba de que todo funciona")
+![alt text](./games/imagenes/capturas/TELEGRAM/3.png "Prueba de que todo funciona")
 
 
 ## Captura del tablero al comienzo del proyecto:
 
-![alt text](games\imagenes\capturas\TRELLO\1.png "Tablero al comienzo")
+![alt text](./games/imagenes/capturas/TRELLO/1.png "Tablero al comienzo")
 
 ## Captura del tablero a mediados del proyecto:
 
-![alt text](games\imagenes\capturas\TRELLO\2.png "Tablero a mediados")
+![alt text](./games/imagenes/capturas/TRELLO/2.png "Tablero a mediados")
 
 ## Captura del tablero al haber avanzado y añadidos ciertos puntos:
 
-![alt text](games\imagenes\capturas\TRELLO\3.png "Tablero avanzado")
+![alt text](./games/imagenes/capturas/TRELLO/3.png "Tablero avanzado")
 
 ## Captura final del tablero:
 
-![alt text](games\imagenes\capturas\TRELLO\4.png "Tablero al finalizar")
+![alt text](./games/imagenes/capturas/TRELLO/4.png "Tablero al finalizar")
 Aquí el único paso que falta es esta misma captura, por lo tanto están acabadas todas las tareas.
