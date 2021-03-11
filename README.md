@@ -1,8 +1,8 @@
 
-#Diego Barrales Castillo (dbc00009) - Práctica 2 Desarrollo Ágil
+# Diego Barrales Castillo (dbc00009) - Práctica 2 Desarrollo Ágil
 
 
-##Título: Tarta de zanahoria
+## Título: Tarta de zanahoria
 
 Tu madre te manda ir al supermercado porque necesita ingredientes para hacer una tarta de
 zanahoria para el cumpleaños de tu hermano, que es al día siguiente.
